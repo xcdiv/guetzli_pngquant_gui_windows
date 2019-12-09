@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>"D:\vhost\ad_optimization\ad_optimization\ad_optimization\bin\Debug\cmd\guetzli_windows_x86-64.exe" --quality 84 "d:\Users\xcdiv\Desktop\BJ.jpg" "d:\dir\BJ.jpg"</string>
+</ArrayOfString>

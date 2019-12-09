@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfPicList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PicList>
+    <Filename>d:\Users\xcdiv\Desktop\BJ.jpg</Filename>
+    <Ext>.jpg</Ext>
+    <Size>129766</Size>
+    <FilenameOut>d:\dir\BJ.jpg</FilenameOut>
+    <Size_Out>32653</Size_Out>
+    <Status>生成成功</Status>
+  </PicList>
+</ArrayOfPicList>
