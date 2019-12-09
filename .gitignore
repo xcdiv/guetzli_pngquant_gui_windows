@@ -130,3 +130,4 @@ dkms.conf
 .svn/pristine/01/01439aec8d16803392a4eff9c49203bdd8a9fc6e.svn-base
 .svn/format
 .svn/entries
+*.svn-base

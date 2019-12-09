@@ -139,6 +139,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="default.ico" />
+    <None Include="README.md" />
     <None Include="Resources\微信图片_20181015152319.png" />
   </ItemGroup>
   <ItemGroup>
